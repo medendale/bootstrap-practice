@@ -1,0 +1,20 @@
+
+html,
+body,
+header,
+#intro-section {
+    height: 100%;
+}
+
+.footer-social li  {
+    width: 35px;
+    height: 35px;
+    background-color: #333333;
+    line-height: 36px;
+    border-radius: 50%;
+    color: white;
+    text-align: center;
+    display: flex;
+  }
+
+
